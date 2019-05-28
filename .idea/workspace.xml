@@ -6,7 +6,9 @@
       <change afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnomalySearch" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/anomalyDetection.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/classifiers/transport_1.classifier" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/connection.config" afterDir="false" />
