@@ -1,0 +1,42 @@
+[2019-05-28 10:31:42,399] INFO: Try to load classifier
+[2019-05-28 10:31:42,409] INFO: Classifier is loaded
+[2019-05-28 10:31:42,409] INFO: Route SU1210 is required
+[2019-05-28 10:33:03,563] INFO: Route SU1210 is loaded
+[2019-05-28 10:33:03,634] INFO: Route SU1210 detected 6 anomalies in data
+[2019-05-28 10:33:03,634] INFO: Saving results
+[2019-05-28 10:33:07,333] INFO: Anomalies is saved
+[2019-05-28 13:12:10,550] INFO: Try to load classifier
+[2019-05-28 13:12:10,554] INFO: Classifier is loaded
+[2019-05-28 13:12:10,555] INFO: Route SU1210 is required
+[2019-05-28 13:13:11,188] INFO: Try to load classifier
+[2019-05-28 13:13:11,192] INFO: Classifier is loaded
+[2019-05-28 13:13:11,192] INFO: Route SU1210 is required
+[2019-05-28 13:14:19,956] INFO: Try to load classifier
+[2019-05-28 13:14:19,959] INFO: Classifier is loaded
+[2019-05-28 13:14:19,959] INFO: Route SU1210 is required
+[2019-05-28 13:15:04,767] INFO: Route SU1210 is loaded
+[2019-05-28 13:15:51,664] INFO: Try to load classifier
+[2019-05-28 13:15:51,667] INFO: Classifier is loaded
+[2019-05-28 13:15:51,668] INFO: Route SU1210 is required
+[2019-05-28 13:16:46,875] INFO: Route SU1210 is loaded
+[2019-05-28 13:21:59,933] INFO: Try to load classifier
+[2019-05-28 13:21:59,936] INFO: Classifier is loaded
+[2019-05-28 13:21:59,937] INFO: Route SU1210 is required
+[2019-05-28 13:22:54,138] INFO: Route SU1210 is loaded
+[2019-05-28 13:22:54,233] INFO: Route SU1210 detected 7 anomalies in data
+[2019-05-28 13:22:54,233] INFO: Saving results
+[2019-05-28 13:22:54,260] INFO: Anomalies is saved
+[2019-05-28 13:25:52,432] INFO: Try to load classifier
+[2019-05-28 13:25:52,435] INFO: Classifier is loaded
+[2019-05-28 13:25:52,436] INFO: Route SU1210 is required
+[2019-05-28 13:28:21,048] INFO: Try to load classifier
+[2019-05-28 13:28:21,051] INFO: Classifier is loaded
+[2019-05-28 13:28:21,051] INFO: Route SU1210 is required
+[2019-05-28 13:29:11,604] INFO: Route SU1210 is loaded
+[2019-05-28 13:29:47,275] INFO: Try to load classifier
+[2019-05-28 13:29:47,278] INFO: Classifier is loaded
+[2019-05-28 13:29:47,279] INFO: Route SU1210 is required
+[2019-05-28 13:30:45,394] INFO: Route SU1210 is loaded
+[2019-05-28 13:30:45,469] INFO: Route SU1210 detected 7 anomalies in data
+[2019-05-28 13:30:45,469] INFO: Saving results
+[2019-05-28 13:30:45,482] INFO: Anomalies is saved
